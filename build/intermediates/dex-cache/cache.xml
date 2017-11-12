@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MyNotesApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MyNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2eedc44bfec13b3f10ae9f9dead22711582cd16e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\MyNotesApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6de1686afb5b249cca43cf700dcc8c831876f0bc">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\MyNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ce32df01b308beefd4fc1e86e6f9dfa7532562f8\classes.dex" />
+    </item>
+
+</items>
